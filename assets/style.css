@@ -1,0 +1,24 @@
+body
+{
+background-image:url("../assets/background.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+#mycards{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-color: blue;
+}
+
+#newHeader{
+    background-color: lightblue;
+    color: black;
+}
+
+#myjumbo{
+    background-color: lightblue;
+    color: white;
+    border-color: blue;
+    margin-top:10px;
+}
